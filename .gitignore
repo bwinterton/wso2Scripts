@@ -23,5 +23,5 @@ _testmain.go
 *.test
 *.prof
 
-# Cross-Compiled folders
-linux64
+# Build artifacts
+target
